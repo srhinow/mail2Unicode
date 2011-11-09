@@ -1,0 +1,14 @@
+Author: Sven Rhinow
+Web: www.sr-tag.de
+License: LPGL (mit Ausnahmen)
+Version: 0.5
+Ausnahmen: Ich verbiete die Benutzung dieser Software für die Firma rokamedia und deren Personen
+
+-----------------------------
+deutsch
+-----------------------------
+Damit die E-Mail-Adressen auf einer Website nicht bzw sehr selten von einem Spambot erkannt wird, kann man die Email-Adresse durch unicode verschleiern um den normalen regulären Ausdruck für eine Emailadresse zu verschleiern.
+Browser können die Unicodierung ohne Probleme interprätieren und dann als normale Email darstellen.
+
+Dieses Contao-Frontend-Modul stellt auf der Seite auf der das Modul eingebunden wurde, ein eingabefeld für eine Email-Adresse bereit die nach dem Absenden in Unicode umgewandelt und anschließend zum kopieren dargestellt wird.
+
