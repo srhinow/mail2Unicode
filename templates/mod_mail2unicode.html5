@@ -1,4 +1,4 @@
-<div style="border: 1px solid rgb(153, 153, 153); padding: 10px;">
+<section style="border: 1px solid rgb(153, 153, 153); padding: 10px;">
 <form action="{{link_url::<?php echo $this->action; ?>}}#mail_2_unicode" id="mail_2_unicode" method="post">
 <a name="mail_2_unicode"></a>
 <input type="hidden" name="FORM_SUBMIT" value="mail_2_unicode" />
@@ -17,4 +17,4 @@
    </tr>
    </table>
    <?php endif;?>
-</div>
+</section>
